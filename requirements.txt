@@ -24,3 +24,4 @@ langchain-objectbox
 langchain
 langchain-objectbox
 langchain_google_genai
+langchain_huggingface
