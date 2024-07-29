@@ -1,3 +1,4 @@
+# pip install -U langchain langchain-openai
 langchain_openai 
 langchain_core
 python-dotenv
